@@ -1,5 +1,7 @@
 # Healthcare-monitoring-for-pregnant-women-using-IoT-and-ML
 
+In  developing countries, most of the people live in the rural areas and medical systems are not amalgamated for sharing information. Mostly, pregnant women are unable to do their normal checkups at the early stages of pregnancy and this can lead to higher death counts in case of newborns and parents in the rural areas as well as in urban regions. Due to this situation, the women are facing an immense medical issues. In this project, The healthcare kit for pregnant women is a device that is designed to help pregnant women monitor their health and well-being. This kit is equipped with a variety of sensors that can track a woman's heart rate, temperature and other important metrics. It is to provide pregnant women with a convenient and easy way to track their health and identify any potential problems early on. By providing women with real-time data about their health, the kit can help them identify any potential problems early on and seek medical attention if needed.
+
 ![image](https://github.com/user-attachments/assets/d5f10379-5434-4f91-8852-51645490caaa)
 
 ![image](https://github.com/user-attachments/assets/2770aaf0-ec2b-4548-ac14-1bd61aa3cf26)
